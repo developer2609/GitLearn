@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation"
+    app:startDestination="@id/loginFragment">
+    <fragment
+        android:id="@+id/registrationFragment2"
+        android:name="com.developer.hamkorauth.fragment.RegistrationFragment"
+        android:label="fragment_registration"
+        tools:layout="@layout/fragment_registration" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.developer.hamkorauth.fragment.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/successfullyFragment"
+        android:name="com.developer.hamkorauth.fragment.SuccessfullyFragment"
+        android:label="fragment_successfully"
+        tools:layout="@layout/fragment_successfully" />
+    <fragment
+        android:id="@+id/confirmationFragment"
+        android:name="com.developer.hamkorauth.fragment.ConfirmationFragment"
+        android:label="fragment_confirmation"
+        tools:layout="@layout/fragment_confirmation" />
+    <fragment
+        android:id="@+id/forgotFragment3"
+        android:name="com.developer.hamkorauth.fragment.ForgotFragment"
+        android:label="fragment_forgot"
+        tools:layout="@layout/fragment_forgot" />
+    <fragment
+        android:id="@+id/changeParolFragment2"
+        android:name="com.developer.hamkorauth.fragment.ChangeParolFragment"
+        android:label="fragment_change_parol"
+        tools:layout="@layout/fragment_change_parol" />
+</navigation>

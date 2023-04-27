@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HamkorAuth</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_fill_the_code">Please ,fill the code</string>
+    <string name="resend">Resend</string>
+    <string name="_00_55">(00:55)</string>
+    <string name="registration">Registration</string>
+    <string name="confirm">Confirm</string>
+    <string name="wertytr">Registration</string>
+    <string name="welcome_back_you_ve_been_missed">Welcome back you\'ve been missed !</string>
+    <string name="type_your_username">Type your username</string>
+    <string name="type_your_email">Type your email</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="type_your_re_password">Type your re-password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="registration2">Registration</string>
+</resources>
