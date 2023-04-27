@@ -21,7 +21,7 @@ class ChangeParolFragment : Fragment() {
 
 
         binding.btnRegisterChangeP.setOnClickListener {
-            findNavController().navigate(R.id.registrationFragment2)
+            findNavController().navigate(R.id.registrationFragment2 )
         }
 
 
